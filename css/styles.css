@@ -1,11 +1,3 @@
-h2.intro {
-  color: blue;
-}
-
-p.intro {
-  font-family: fantasy;
-}
-
-img.intro {
-  width: 60%;
+.intro {
+  color:red;
 }
